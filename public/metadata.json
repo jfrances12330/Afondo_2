@@ -1,7 +1,6 @@
+
 {
   "name": "Afondo - Limpieza de campanas",
   "description": "Servicio premium de higiene industrial y desengrase técnico en Alicante.",
-  "requestFramePermissions": [
-    "camera"
-  ]
+  "requestFramePermissions": ["camera"]
 }
