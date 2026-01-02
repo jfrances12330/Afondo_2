@@ -1,0 +1,7 @@
+{
+  "name": "Afondo - Higiene Industrial",
+  "description": "Servicio premium de desengrase técnico y mantenimiento de sistemas de extracción en Alicante.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

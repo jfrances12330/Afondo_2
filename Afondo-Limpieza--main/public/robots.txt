@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Ubicación del Sitemap para motores de búsqueda
+Sitemap: https://afondolimpiezadecampanas.com/sitemap.xml
